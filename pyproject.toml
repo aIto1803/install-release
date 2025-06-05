@@ -5,3 +5,4 @@ description = "A CLI to install and update any single-binary CLI tools from GitH
 requires-python = ">=3.10"
 # guard against empty input
 # guard against empty input
+# drop an unused branch
