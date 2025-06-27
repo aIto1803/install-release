@@ -1,3 +1,4 @@
 # CONTRIBUTING.md
 
 Notes and usage details for install-release.
+- link the usage section
