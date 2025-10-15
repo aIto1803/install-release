@@ -10,3 +10,4 @@ Notes and usage details for install-release.
 - add a note about the defaults
 - link the usage section
 - clarify the setup steps
+- add a note about the defaults
